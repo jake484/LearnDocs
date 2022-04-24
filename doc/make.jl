@@ -31,13 +31,14 @@ makedocs(
             "Tools/CoolProp.md",
             "Tools/CSV_jl_use.md"
         ],],
+    build = "../docs/"
 )
 
 
 
-deploydocs(
-   repo="github.com/jake484/LearnDocs.git",
-   target = "./",
-#    target = "../build",
-   push_preview=true
-)
+# deploydocs(
+#    repo="github.com/jake484/LearnDocs.git",
+#    target = "./",
+# #    target = "../build",
+#    push_preview=true
+# )
