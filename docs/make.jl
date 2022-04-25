@@ -25,7 +25,8 @@ makedocs(
         ],
         "CS Base" => Any[
             "CS Base/env_variable.md",
-            "CS Base/julia_change_pkgserve.md"
+            "CS Base/julia_change_pkgserve.md",
+            "CS Base/julia的安装.md"
         ],
         "Tools" => Any[
             "Tools/CoolProp.md",

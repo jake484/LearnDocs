@@ -3,7 +3,7 @@
 !!! tip
     Contents：julia安装
 
-    Contributor: SBB
+    Contributor: 孙蓓蓓
 
     Email:
 
@@ -16,7 +16,7 @@
 
 ## 下载julia-1.7.2-win64.zip安装包
 
-!!! Note
+!!! note
     v1.7.2(Feb 6,2022)为julia当前稳定版本。
 
 首先，在搜索框中搜索julia，点击julia-releases：
