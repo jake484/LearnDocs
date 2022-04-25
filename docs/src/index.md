@@ -32,9 +32,15 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 11. [CSV.jl](https://csv.juliadata.org/stable/)
 12. [DataFrames.jl](https://dataframes.juliadata.org/stable/)（大规模数据批量处理包）
 13. [Unitful](https://painterqubits.github.io/Unitful.jl/stable/)（单位计算包）
+14. [GalacticOptim.jl](https://galacticoptim.sciml.ai/dev/)(Sciml优化包)
+15. 
 
 ## 其它资源传送门
 
 1. [CoolProp](http://www.coolprop.org/index.html)
-
+2. [APMonitor-github](https://github.com/APMonitor/)
+3. [APMonitor](http://apmonitor.com/)
+4. [Greet](https://greet.es.anl.gov/)
+5. [Mqtt系列教程](https://www.hangge.com/blog/cache/detail_2347.html)
+6. [Mixed Integer Distributed Ant Colony Optimization(midaco-solver)](http://www.midaco-solver.com/)
 ![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square)
