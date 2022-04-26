@@ -11,7 +11,8 @@ makedocs(
         "Simulation" => Any[
             "Simulation/componementModel.md",
             "Simulation/steadyRC.md",
-            "Simulation/heattran.md"
+            "Simulation/MTK_heattran.md",
+            "Simulation/DE_heattran.md",
         ],
         "Optimization" => Any[
             "Optimization/参数辨识实例_MTK.md",
@@ -25,8 +26,10 @@ makedocs(
         ],
         "CS Base" => Any[
             "CS Base/env_variable.md",
+            "CS Base/Julia的安装.md",
             "CS Base/julia_change_pkgserve.md",
-            "CS Base/julia的安装.md"
+            "CS Base/Creat and Call dll.md"
+            
         ],
         "Tools" => Any[
             "Tools/CoolProp.md",

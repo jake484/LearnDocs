@@ -1,4 +1,4 @@
-# julia安装
+# Julia安装
 
 !!! tip
     Contents：julia安装
