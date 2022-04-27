@@ -17,6 +17,8 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 
 欢迎各位贡献文档！
 
+![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square) ![Stable](https://img.shields.io/badge/Articles-Total_20-green.svg?style=flat-square)
+
 ## Julia资源传送门
 
 1. [Julia中文文档](https://cn.julialang.org/)
@@ -43,4 +45,3 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 4. [Greet](https://greet.es.anl.gov/)
 5. [Mqtt系列教程](https://www.hangge.com/blog/cache/detail_2347.html)
 6. [Mixed Integer Distributed Ant Colony Optimization(midaco-solver)](http://www.midaco-solver.com/)
-![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square)
