@@ -1,4 +1,13 @@
-# vscode中使用git
+# VScode中使用Git
+
+!!! tip
+    Contents：VScode,Git
+
+    Contributor: YJY
+
+    Email:522432938@qq.com
+
+    如有错误，请批评指正。
 
 本篇介绍在vscode中使用git的方法(以码云为例，githup是同样的操作)
 

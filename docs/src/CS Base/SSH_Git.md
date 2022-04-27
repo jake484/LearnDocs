@@ -1,11 +1,18 @@
-# ssh、git与git图形化软件
+# SSH、Git与Git图形化软件
 
-本文介绍ssh、git与sourcetree
+!!! tip
+    Contents：SSH、Git与Git的图形化软件
 
-他们之间的关系为：
+    Contributor: YJY
+
+    Email:522432938@qq.com
+
+    如有错误，请批评指正。
+
+本文介绍ssh、git与git的图形化软件。他们之间的关系为：
 
 * git基于ssh通讯操作
-* git图形化软件是操作git的图形化界面
+* git图形化软件是操作git的图形化软件
 
 ## SSH使用
 
@@ -109,7 +116,7 @@ ssh root@111.20.45.124 "mkdir -p .ssh && cat >> .ssh/authorized_keys" < ~/.ssh/i
 
 用ssh怎么操作呢？
 
-做一个转换，githup相当于就是服务端，只需要把公钥放在服务端就可以了。在githup上更加方便，因为它都是图形化界面操作。进入设置界面，选择ssh就可以进行调试了（码云同理）。
+做一个转换，githup相当于就是服务端，只需要把公钥放在服务端就可以了。在githup上更加方便，因为它都是图形化软件操作。进入设置软件，选择ssh就可以进行调试了（码云同理）。
 
 配置好了之后，可以进行如下测试：
 
@@ -300,7 +307,7 @@ git图形化软件的好处就是，把以上对git的操作图形化。
 
 ### sourcetree示例
 
-界面如下：
+软件如下：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a165092494a149ff86abe8492d080b32.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAamFrZTQ4NA==,size_20,color_FFFFFF,t_70,g_se,x_16##pic_center)
 
@@ -308,7 +315,7 @@ git图形化软件的好处就是，把以上对git的操作图形化。
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/bfcd58f6f5ac4acaab4efd0e73f61bb0.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAamFrZTQ4NA==,size_20,color_FFFFFF,t_70,g_se,x_16##pic_center)
 
-某一个链接仓库的工作界面：
+某一个链接仓库的工作软件：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f3cb4c32f83b47d8910c03c974b8f806.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBAamFrZTQ4NA==,size_20,color_FFFFFF,t_70,g_se,x_16##pic_center)
 
@@ -326,4 +333,4 @@ git图形化软件的好处就是，把以上对git的操作图形化。
 
 不管什么软件，拉取、提交、暂存等等都是相同的！
 
-**如果你明白git的操作原理了，那么这个无师自通，因为本质上sourcetree就是提供一个图形化的操作界面。再没有其它新鲜玩意了！**
+**如果你明白git的操作原理了，那么这个无师自通，因为本质上sourcetree就是提供一个图形化的操作软件。再没有其它新鲜玩意了！**

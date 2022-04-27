@@ -7,7 +7,8 @@ makedocs(
         "Modeling" => Any[
             "Modeling/DE_intro.md",
             "Modeling/MTK_intro.md",
-            "Modeling/MTK_register.md"
+            "Modeling/MTK_register.md",
+            "Modeling/WathMTKdo.md"
         ],
         "Simulation" => Any[
             "Simulation/componementModel.md",
