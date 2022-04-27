@@ -6,7 +6,8 @@ makedocs(
         "Home" => "index.md",
         "Modeling" => Any[
             "Modeling/DE_intro.md",
-            "Modeling/MTK_intro.md"
+            "Modeling/MTK_intro.md",
+            "Modeling/MTK_register.md"
         ],
         "Simulation" => Any[
             "Simulation/componementModel.md",
@@ -28,11 +29,13 @@ makedocs(
             "CS Base/env_variable.md",
             "CS Base/julia的安装.md",
             "CS Base/julia_change_pkgserve.md",
-            "CS Base/Creat and Call dll.md"
+            "CS Base/Creat and Call dll.md",
+            "CS Base/SSH_Git.md",
         ],
         "Tools" => Any[
             "Tools/CoolProp.md",
-            "Tools/CSV_jl_use.md"
+            "Tools/CSV_jl_use.md",
+            "Tools/vscode_git.md"
         ],],
 )
 
