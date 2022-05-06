@@ -2,6 +2,9 @@
 
 ![julia图片](assets/julia.png)
 
+
+!!! tip
+    [点击此处到智慧能源系统导论](https://ai4energy.github.io/enpo811203/)
 ## LearnDocs简介
 
 LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核心主要与建模仿真优化控制相关。文档主要特点为：
