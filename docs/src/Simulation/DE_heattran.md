@@ -213,7 +213,7 @@ $$\mathbf{y}\prime=\mathbf{f}(\mathbf{x},\mathbf{y})$$
 
     * 欧拉法
 
-    $$y\left(x_{i+1}\right)=y\left(x_i\right)+hf\left(x_i,{y(x}_i)\right)+O\left(h^2\right)$$
+    $$w$$
 
     * 后退欧拉法
     $$y\left(x_{i+1}\right)=y\left(x_i\right)+hf\left(x_{i+1},{y(x}_{i+1})\right)+O\left(h^2\right)$$
