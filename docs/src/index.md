@@ -38,7 +38,7 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 12. [DataFrames.jl](https://dataframes.juliadata.org/stable/)（大规模数据批量处理包）
 13. [Unitful](https://painterqubits.github.io/Unitful.jl/stable/)（单位计算包）
 14. [GalacticOptim.jl](https://galacticoptim.sciml.ai/dev/)(Sciml优化包)
-15. 
+15. [SymPy.jl](https://docs.juliahub.com/SymPy/KzewI/1.0.31/)
 
 ## 其它资源传送门
 

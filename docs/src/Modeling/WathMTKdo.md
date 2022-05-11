@@ -171,7 +171,7 @@ simplify.(substitute.(B, (Dict(x => y^2),)))
 2. Register如何使用？
 3. 如何批量处理符号？
 
-这样的问题应该去看Symbolics.jl的文档。因为MTK就是在它的基础上构建的。它不支撑的，MTK也没办法
+这样的问题应该去看Symbolics.jl的文档。因为MTK就是在它的基础上构建的。它不支持的，MTK也没办法使用。
 
 问题类型二：
 

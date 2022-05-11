@@ -213,7 +213,7 @@ $$\mathbf{y}\prime=\mathbf{f}(\mathbf{x},\mathbf{y})$$
 
     * 欧拉法
 
-    $$w$$
+    $$y\left(x_{i+1}\right)=y\left(x_i\right)+hf\left(x_{i},{y(x}_{i})\right)+O\left(h^2\right)$$
 
     * 后退欧拉法
     $$y\left(x_{i+1}\right)=y\left(x_i\right)+hf\left(x_{i+1},{y(x}_{i+1})\right)+O\left(h^2\right)$$
@@ -253,5 +253,5 @@ $$\mathbf{y}\prime=\mathbf{f}(\mathbf{x},\mathbf{y})$$
 总的来看，DE求解我们手动完成了Step2、Step3、Step4。
 
 !!! tip
-    MTK求解时。这一步由程序完成。
+    MTK求解时。Step3、Step4由程序完成。
 
