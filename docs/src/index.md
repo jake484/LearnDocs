@@ -20,7 +20,7 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 
 欢迎各位贡献文档！
 
-![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square) ![Stable](https://img.shields.io/badge/Articles-Total_23-green.svg?style=flat-square)
+![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square) ![Stable](https://img.shields.io/badge/Articles-Total_24-green.svg?style=flat-square)
 
 ## Julia资源传送门
 
@@ -38,7 +38,8 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 12. [DataFrames.jl](https://dataframes.juliadata.org/stable/)（大规模数据批量处理包）
 13. [Unitful](https://painterqubits.github.io/Unitful.jl/stable/)（单位计算包）
 14. [GalacticOptim.jl](https://galacticoptim.sciml.ai/dev/)(Sciml优化包)
-15. [SymPy.jl](https://docs.juliahub.com/SymPy/KzewI/1.0.31/)
+15. [SymPy.jl](https://docs.juliahub.com/SymPy/KzewI/1.0.31/)符号计算包（可求方程解析解），与Matlab中的符号工具包类似
+16. [EquationsSolver](https://jake484.github.io/EquationsSolver.jl/)自制的小型方程（组）求解器
 
 ## 其它资源传送门
 
