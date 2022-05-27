@@ -1,6 +1,6 @@
 # LearnDocs
 
-[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jake484.github.io/EquationsSolver.jl/)
+[![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jake484.github.io/LearnDocs/dev/)
 
 这是一个关于建模仿真优化控制的文档集合，收集整理相关实例。
 
