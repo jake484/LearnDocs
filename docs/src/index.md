@@ -18,9 +18,11 @@ LearnDocs是Ai4小组在学习中整理的一些可操作案例。案例的核�
 
 供大家学习参考。
 
+![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square)
+
 欢迎各位贡献文档！
 
-![Stable](https://img.shields.io/badge/Docs-Updating...-blue.svg?style=flat-square) ![Stable](https://img.shields.io/badge/Articles-Total_24-green.svg?style=flat-square)
+![Stable](https://img.shields.io/badge/Articles-Total_25-green.svg?style=flat-square)
 
 ## Julia资源传送门
 
