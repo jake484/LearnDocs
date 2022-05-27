@@ -577,7 +577,7 @@ gif(anim, filename, fps=24)
 * 优化目标：$\sum_{j=1}^{3}\sum_{i=1}^{N}x_{1(i,j)}^2+u_{(i,j)}^2$；
 * 参数：`N = 100`，`tf = 4`；
 * 末速度限制为0；变量范围限制：$-10<=u<=10$。
-* 初态为$\sum_{j=1}^{3}\sum_{i=1}^{N}\frac{20}{\pi}x_{1(i,j)}^2+u_{(i,j)}^2$
+* 初态为$\theta=[\frac{\pi}{3},-\frac{\pi}{4},\frac{\pi}{2}]$
 
 ![图 10](../assets/OptimControl-17_52_31.gif)  
 
