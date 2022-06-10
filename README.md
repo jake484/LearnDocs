@@ -1,4 +1,8 @@
-# LearnDocs
+# 文档迁移
+
+## LearnDocs迁移至[Ai4Docs](https://ai4energy.github.io/Ai4Docs/dev/)
+
+### LearnDocs
 
 [![Stable](https://img.shields.io/badge/docs-stable-blue.svg)](https://jake484.github.io/LearnDocs/dev/)
 
