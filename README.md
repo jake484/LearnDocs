@@ -1,6 +1,6 @@
 # 文档迁移
 
-## LearnDocs迁移至[Ai4Docs](https://ai4energy.github.io/Ai4Docs/dev/)
+## LearnDocs迁移至[Ai4Docs](https://ai4energy.github.io/Ai4EDocs/dev/)
 
 ### LearnDocs
 
